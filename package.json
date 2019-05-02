@@ -1,0 +1,27 @@
+{
+  "name": "www",
+  "version": "0.0.1",
+  "description": "The inner project root (www) of Planet Exploration game",
+  "main": "index.js",
+  "scripts": {
+    "test": "start index.html"
+  },
+  "author": "prolighthub",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.16.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prolightHub/PlanetExploration.git"
+  },
+  "keywords": [
+    "game",
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/prolightHub/PlanetExploration/issues"
+  },
+  "homepage": "https://github.com/prolightHub/PlanetExploration#readme"
+}
